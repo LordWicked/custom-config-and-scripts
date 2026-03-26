@@ -82,5 +82,6 @@ for key     kcap   seq        mode   widget (
 # search keymap so it keeps working there:r-delregion() {
 
 alias vencord='sh -c "$(curl -sS https://vencord.dev/install.sh)"'
- 
+alias clean='clear && fastfetch' 
 fastfetch
+alias lst='eza -T --hyperlink --color=auto -l --no-permissions --no-user --modified'
