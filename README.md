@@ -1,4 +1,4 @@
-# My-Custom-scripts
+# My custom config files and scripts
 
 Config scripts and more for some Linux and Windows applications
 
@@ -6,3 +6,6 @@ Config scripts and more for some Linux and Windows applications
 - kitty.conf (Kitty terminal)
 - zshrc (ZSH)
 - user.js (Firefox)
+
+## To be added:
+- nanorc (Nano editor)
